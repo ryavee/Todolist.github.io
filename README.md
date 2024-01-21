@@ -1,7 +1,7 @@
 # Todolist.github.io
 #Hello ,
 #This is the project made by using HTML, CSS and JavaScript.
-#https://github.com/ryavee/Todolist.github.io
+https://ryavee.github.io/Todolist.github.io/
  
  
  
